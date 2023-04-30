@@ -1,0 +1,7 @@
+nameOverride: ""
+
+issuer:
+  name: letsencrypt
+  email: support@chefbook.io
+  server:
+    staging: false
